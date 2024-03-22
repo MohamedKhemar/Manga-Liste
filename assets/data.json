@@ -1,0 +1,99 @@
+[
+    {
+      "id": 0,
+      "nom": "Naruto",
+      "auteur": "Masashi Kishimoto",
+      "date": "1999-2014",
+      "url_image": "https://wallpapers-clan.com/wp-content/uploads/2023/12/naruto-uzumaki-orange-art-desktop-wallpaper-preview.jpg",
+      "description": "Naruto Uzumaki est un jeune ninja qui aspire à devenir Hokage, le chef de son village, pour obtenir le respect des habitants et devenir le ninja le plus puissant de tous."
+    },
+    {
+      "id": 1,
+      "nom": "One Piece",
+      "auteur": "Eiichiro Oda",
+      "date": "1997-Présent",
+      "url_image": "https://thumb.canalplus.pro/http/unsafe/1200x630/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/brand/4443223/canal-ouah/STD169/myCANAL_16x9_MEA_1920x1080-21",
+      "description": "Monkey D. Luffy et son équipage de pirates partent à la recherche du One Piece, le trésor ultime qui lui permettrait de devenir le roi des pirates."
+    },
+    {
+      "id": 2,
+      "nom": "Dragon Ball",
+      "auteur": "Akira Toriyama",
+      "date": "1984-1995",
+      "url_image": "https://gaak.fr/wp-content/uploads/2022/06/Dragon-Ball-Z-puissance-final.jpg",
+      "description": "Les aventures de Son Goku, un jeune guerrier doté de pouvoirs extraordinaires, à la recherche des sept boules de cristal pour réaliser un vœu."
+    },
+    {
+      "id": 3,
+      "nom": "Fairy Tail",
+      "auteur": "Hiro Mashima",
+      "date": "2006-2017",
+      "url_image": "https://staticg.sportskeeda.com/editor/2023/03/8d994-16796739708460-1920.jpg?w=840",
+      "description": "Les aventures de la guilde de Fairy Tail, une des guildes les plus célèbres et les plus puissantes du royaume de Fiore."
+    },
+    {
+      "id": 4,
+      "nom": "Attaque des Titans",
+      "auteur": "Hajime Isayama",
+      "date": "2009-2021",
+      "url_image": "https://views.fr/wp-content/uploads/2021/01/snk-pfa.jpg",
+      "description": "Dans un monde où l'humanité est assiégée par des géants humanoïdes, des humains luttent pour leur survie dans une ville entourée de trois immenses murs."
+    },
+    {
+      "id": 5,
+      "nom": "My Hero Academia",
+      "auteur": "Kōhei Horikoshi",
+      "date": "2014-Présent",
+      "url_image": "https://furansujapon.com/wp-content/uploads/2022/09/My-Hero-Academia.jpg",
+      "description": "Dans un monde où presque tous les habitants possèdent des super-pouvoirs, un jeune garçon sans pouvoir rêve de devenir un héros."
+    },
+    {
+      "id": 6,
+      "nom": "Demon Slayer",
+      "auteur": "Koyoharu Gotouge",
+      "date": "2016-2020",
+      "url_image": "https://wallpapers-clan.com/wp-content/uploads/2023/12/kimetsu-no-yaiba-tanjiro-with-katana-desktop-wallpaper-preview.jpg",
+      "description": "Tanjiro Kamado devient un chasseur de démons pour venger sa famille décimée par des démons et sauver sa sœur transformée en démon."
+    },
+    {
+      "id": 7,
+      "nom": "Jujutsu Kaisen",
+      "auteur": "Gege Akutami",
+      "date": "2018-Présent",
+      "url_image": "https://www.journaldugeek.com/app/uploads/2021/12/template-jdg-96-2.jpg",
+      "description": "Yuji Itadori se retrouve impliqué dans le monde occulte des exorcistes maudits après avoir ingéré un doigt maudit pour sauver ses amis."
+    },
+    {
+      "id": 8,
+      "nom": "Solo Leveling",
+      "auteur": "Chugong",
+      "date": "2018-Présent",
+      "url_image": "https://i0.wp.com/keulmadang.com/wp-content/uploads/2021/05/thumb-1920-1054068.png?fit=1920%2C1080&ssl=1",
+      "description": "Dans un monde où des portails vers des donjons apparaissent, Jin-Woo Sung, le plus faible des chasseurs, se retrouve soudainement capable de devenir plus fort."
+    },
+    {
+      "id": 9,
+      "nom": "Dr. Stone",
+      "auteur": "Riichiro Inagaki",
+      "date": "2017-Présent",
+      "url_image": "https://sm.ign.com/ign_fr/screenshot/default/drstonetms_syn4.jpg",
+      "description": "Senku Ishigami, un jeune génie, cherche à reconstruire la civilisation après que l'humanité a été pétrifiée pendant des milliers d'années."
+    },
+    {
+      "id": 10,
+      "nom": "Hunter x Hunter",
+      "auteur": "Yoshihiro Togashi",
+      "date": "1998-Présent",
+      "url_image": "https://www.nautiljon.com/images/breves/00/00/hunter_x_hunter_yoshihiro_togashi_devoile_quelle_serait_la_fin_du_manga_s_il_venait_a_deceder_18100.webp",
+      "description": "Gon Freecss, un jeune garçon, devient un Hunter pour retrouver son père et découvre les mystères du monde des Hunters."
+    },
+    {
+      "id": 11,
+      "nom": "Blue Exorcist",
+      "auteur": "Kazue Kato",
+      "date": "2009-Présent",
+      "url_image": "https://a.storyblok.com/f/178900/960x540/853aecbafa/blue-exorcist-shimane-illuminati-saga-header.jpg/m/filters:quality(95)format(webp)",
+      "description": "Rin Okumura, un jeune garçon possédant des pouvoirs démoniaques, devient un exorciste pour combattre les forces démoniaques menaçant le monde."
+    }
+]
+  
